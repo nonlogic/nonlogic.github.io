@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : "Kashyap Tumkur"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Engineer, philosopher, geek."
   location         : "Silicon Valley, CA"
   email            :
   uri              :
@@ -73,18 +73,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "http://github.com/nonlogic"
+  github           : "nonlogic"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "http://in.linkedin.com/in/KashyapTumkur"
+  linkedin         : "KashyapTumkur"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "http://twitter.com/nonlogic"
+  twitter          : "nonlogic"
   vine             :
   weibo            :
   xing             :
