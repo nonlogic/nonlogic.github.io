@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kashyap's Blog"
 title_separator          : "-"
 name                     : "Kashyap Tumkur"
-description              : "Notes from a corner."
+description              : "Notes from sector X618 of the universe."
 url                      : "http://kashyaptumkur.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  : 
@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : "Kashyap Tumkur"
   avatar           : "bio-photo.jpg"
-  bio              : "Engineer, philosopher, geek."
+  bio              : "Better than I was yesterday."
   location         : "Silicon Valley, CA"
   email            :
   uri              :
