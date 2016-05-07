@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: "Why I write"
 categories:
   - Writing
