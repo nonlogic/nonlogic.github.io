@@ -3,8 +3,8 @@ layout: single
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-author_profile: false
-modified: 2016-04-18T16:39:37-04:00
+author_profile: true
+modified: 2016-05-07T10:00:00-07:00
 ---
 
 {% include base_path %}
@@ -50,4 +50,6 @@ The theme includes responsive layouts (`single`, `archive`, and `splash` pages) 
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+## Site
+
+This site uses the very well-designed, well-documented [Minimal Mistakes](http://github.com/mmistakes/minimal-mistakes/) [Jekyll](http://jekyllrb.com) template by [Michael Rose](http://mademistakes.com).
