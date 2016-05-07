@@ -1,8 +1,6 @@
 ---
-layout: single
 permalink: /about/
 title: "About"
-author_profile: true
 modified: 2016-05-07T10:00:00-07:00
 ---
 
