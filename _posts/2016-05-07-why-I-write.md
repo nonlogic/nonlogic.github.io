@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Why I write"
 categories:
   - Writing
