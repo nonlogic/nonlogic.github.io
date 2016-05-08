@@ -26,3 +26,6 @@ There's nothing like writing to force me to get to the point. It may be that I w
 I'd like to end with a quote by [Leslie Lamport](http://en.wikipedia.org/wiki/Leslie_Lamport) that's driven me on this and which I hope will continue to inspire me:
 
 > If you think without writing, you only think you're thinking. -- Leslie Lamport
+
+---
+*This article was also cross-posted to [Medium](http://medium.com/@nonlogic/why-i-write-3b83d7eddbaa#.lp4y0zfga).*
