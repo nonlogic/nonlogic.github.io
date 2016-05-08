@@ -7,8 +7,6 @@ tags:
   - personal
 ---
 
-# Why I write
-
 This post is a reminder to myself.
 
 I've started blogs, private journals, email threads, subreddits, many times over, and never stuck to them. However, as time goes by, I've accumulated a series of reasons to write more, and I'm listing them here as a self-motivation tool for when I notice myself dragging my feet on adding content to this website.
