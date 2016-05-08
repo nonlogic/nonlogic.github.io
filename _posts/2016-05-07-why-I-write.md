@@ -21,8 +21,7 @@ There is no way to remember every books I've read, each of the places I've been,
 
 ## Feedback
 
-There's nothing like writing to force me to get to the point. It may be that I was mistaken, my idea bad, or that I haven't really understood something I thought I did at all. Having a clear and concise description of my thoughts gives me a tool to get feedback that helps me correct my mistakes and learn something new.
-
+There's nothing like writing to force me to get to the point. It may be that I was mistaken, my idea bad, or that I haven't really understood something I thought I did at all. Having a clear and concise description of my thoughts gives me a tool to get feedback that helps me correct my mistakes and learn something new.  
 
 I'd like to end with a quote by [Leslie Lamport](http://en.wikipedia.org/wiki/Leslie_Lamport) that's driven me on this and which I hope will continue to inspire me:
 
