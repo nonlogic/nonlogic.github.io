@@ -3,7 +3,6 @@ layout: blog
 title: "Why I write"
 categories:
   - Blog
-  - Writing
 tags:
   - writing
   - personal
