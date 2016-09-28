@@ -1,10 +1,13 @@
 ---
+layout: blog
 title: "Why I write"
 categories:
+  - Blog
   - Writing
 tags:
   - writing
   - personal
+summary: A reminder to myself.
 image: /images/blog/why-I-write.jpg
 ---
 
