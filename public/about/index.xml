@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Kashyap Tumkur&#39;s Blog</title>
+    <link>http://kashyaptumkur.com/about/</link>
+    <description>Recent content in Abouts on Kashyap Tumkur&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0700</lastBuildDate>
+    <atom:link href="http://kashyaptumkur.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://kashyaptumkur.com/about/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://kashyaptumkur.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Kashyap Tumkur, a software engineer, technology geek, and an avid reader based out of Northern California. I set up this blog to journal my experiences and polish my writing skills. If you&amp;rsquo;re looking for my professional information, see &lt;a href=&#34;http://in.linkedin.com/in/KashyapTumkur&#34;&gt;my LinkedIn page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

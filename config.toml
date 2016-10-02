@@ -1,0 +1,35 @@
+baseurl = "http://kashyaptumkur.com/"
+languageCode = "en-us"
+title = "Kashyap Tumkur's Blog"
+disqusShortname = "nonlogic"
+googleAnalytics = "UA-77423805-1"
+author = "Kashyap Tumkur"
+
+[params]
+#    sidebartitle = ""
+    sidebartagline = "kashyaptumkur.com"
+#    sidebarphoto = ""
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+
+[[menu.social]]
+    pre = "<i class='fa fa-linkedin'></i>"
+    url = "http://www.linkedin.com/in/KashyapTumkur"
+    identifier = "linkedin"
+
+[[menu.social]]
+    pre = "<i class='fa fa-github'></i>"
+    url = "http://github.com/nonlogic"
+    identifier = "github"
+
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/nonlogic"
+    identifier = "twitter"
+
+# [[menu.footer]]
+#     name = "Blog"
+#     url = "/posts"
+
